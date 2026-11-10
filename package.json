@@ -1,0 +1,19 @@
+
+{
+  "name": "bdf-lab-03",
+  "version": "1.0.0",
+  "description": "BDF Lab 03 - REST API, Query Parameters, Validation and Debugging",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
