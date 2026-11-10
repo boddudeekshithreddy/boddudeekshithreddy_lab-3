@@ -1,0 +1,6 @@
+$kind: http-request
+name: ""
+description: ""
+url: https://boddudeekshithreddy-lab-3.onrender.com/books/
+method: GET
+order: 1000
