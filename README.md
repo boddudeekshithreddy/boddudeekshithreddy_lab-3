@@ -2,7 +2,7 @@
 
 **Student Name:** Boddu Deekshith Reddy  
 **Registration Number:** 252U1R5024  
-**Section:** CSE/AIDE-2A
+**Section:** CSE/AIDE-2A 
 **Subject:** Backend Development Fundamentals (BDF)  
 **Lab Number:** 03  
 **Lab Title:** REST API, Query Parameters, Validation and Debugging  
